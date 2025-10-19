@@ -2,7 +2,7 @@
 **Computer Systems Architecture (CSCI-6461 – 10116)**  
 
 ## YouTube Video  
-[🎥 **Watch the full presentation here**](smth)
+[🎥 **Watch the full presentation here**](https://youtu.be/AARbMuD_8_8)
 
 ---
 

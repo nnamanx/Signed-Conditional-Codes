@@ -4,8 +4,6 @@
 ## YouTube Video  
 [🎥 **Watch the full presentation here**](https://youtu.be/AARbMuD_8_8)
 
----
-
 ## Author  
 **Laman Khudadatzada**  
 📧 lkhudadatzada12131@ada.edu.az  
